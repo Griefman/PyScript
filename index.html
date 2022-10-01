@@ -10,15 +10,25 @@
         <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
     </head>
     <body> 
-        <h1 id="header" class="main_header"></h1>
+        <h1 id="header-01"></h1>
+        <h2 id="header-02"></h2>
         <py-script> 
-            header = 'fkfklajflajfja lajfljfkajf'
-            Element("header").write(header)
+            header1 = 'fkfklajflajfja lajfljfkajf'
+            header2 = 'sajfja  jfajlfj  jlajfaljfa jla;ja;ja;'
+
+            Element("header-01").write(header1)
+            Element("header-02").write(header2)
+
         </py-script> 
         <style>
-            .main-header {
+            #header-01 {            
                 color: red;
-                font-size: 32px;
+                font-size: 54px;
+            }
+
+            #header-02 {            
+                color: blue;
+                font-size: 24px;
             }
         </style>
     </body>
