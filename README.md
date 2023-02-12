@@ -14,3 +14,6 @@ Homepage https://www.home-assistant.io/
 Статья на Хабр: https://habr.com/ru/post/471822/
 Pyscript: Python Scripting for Home Assistant
 https://hacs-pyscript.readthedocs.io/en/stable/#pyscript-python-scripting-for-home-assistant
+
+TO DO
+1. Разобраться с запуском 
