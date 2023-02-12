@@ -7,4 +7,3 @@ PyScript даёт возможность запускать Python прямо в
 
 
 Materials:
-https://habr.com/ru/company/skillfactory/blog/669814/
